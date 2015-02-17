@@ -1,0 +1,26 @@
+{
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Autoprefixer",
+        "BracketHighlighter",
+        "Browser Refresh",
+        "Dayle Rees Color Schemes",
+        "Dracula Color Scheme",
+        "Emmet",
+        "GitGutter",
+        "HTML5",
+        "JSLint",
+        "Package Control",
+        "Sass",
+        "Seti_UI",
+        "SideBarEnhancements",
+        "Sublime-KnockoutJS-Snippets",
+        "SublimeLinter",
+        "Theme - Soda",
+        "Theme - Spacegray",
+        "TrailingSpaces"
+    ]
+}

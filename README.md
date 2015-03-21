@@ -1,3 +1,18 @@
-# Configuration
+# Contents
 
-Collection of snippets which I want to track &amp; keep as a reference.
+Ohmyzsh
+-------
+
+Steriods for terminal - http://ohmyz.sh/
+
+Ssh Config
+----------
+
+Ssh configurations to work with multiple git accounts
+
+Sublime
+-------
+
+- Settings: Theme, Spacing, etc
+- Installed Packages
+

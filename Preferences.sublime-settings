@@ -1,12 +1,12 @@
 {
-	"caret_extra_width": 1,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
-	"font_size": 11,
+    "caret_extra_width": 1,
+    "color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+    "font_size": 12,
     "ignored_packages":
     [
         "Vintage"
     ],
-    "tab_size": 4,
+    "tab_size": 2,
     "theme": "Seti.sublime-theme",
     "translate_tabs_to_spaces": true
 }

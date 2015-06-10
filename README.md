@@ -1,18 +1,23 @@
 # Contents
 
-Ohmyzsh
--------
+Bash
+----
 
-Steriods for terminal - http://ohmyz.sh/
+- Ssh configurations to work with multiple git accounts
 
-Ssh Config
-----------
+Chrome
+------
 
-Ssh configurations to work with multiple git accounts
+- Extensions based on user profiles
+
 
 Sublime
 -------
 
-- Settings: Theme, Spacing, etc
-- Installed Packages
+- Settings: Theme, Spacing, etc.,
+- Sublime installed Packages / Extensions
 
+Terminal
+--------
+
+- Ohmyzsh (Steriods for terminal http://ohmyz.sh)

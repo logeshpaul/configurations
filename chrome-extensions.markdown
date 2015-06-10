@@ -11,6 +11,22 @@
 - Save to Pocket
 - View Thru
 
+**Disabled**
+
+- AutoPagerize
+- Be Limitless
+- Currency Convertor
+- Currently
+- Dev tools app
+- Dragdis
+- Dribble HD
+- feedly
+- Genius(beta)
+- Musixmatch
+- Panda 4 
+- Streamus
+- uBlock Origin
+
 ## Developer Profile
 
 - Advance REST Client

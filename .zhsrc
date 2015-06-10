@@ -8,9 +8,9 @@ ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="juanghurtado"
 
 # Project Alias
-alias ing="cd ~/Works/Sourcebits/INGVysya_HTML"
 alias smacss="cd ~/Works/CodeLabs/generator-smacss"
 alias code="cd ~/Works/CodeLabs/"
+alias sublime="open -a /Applications/Sublime\ Text.app"
 
 # Example aliases
 alias zshconfig="vi ~/.zshrc"
@@ -71,4 +71,3 @@ export PATH="/Users/logeshpaul/.rvm/gems/ruby-1.9.2-p320/bin:/Users/logeshpaul/.
 
 # ssh
 # export SSH_KEY_PATH="~/.ssh/dsa_id"
-

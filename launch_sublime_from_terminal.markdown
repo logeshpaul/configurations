@@ -1,6 +1,6 @@
 # Launch Sublime Text from the Mac OS X Terminal
 
-Sublime Text 2 ships with a CLI called **subl** (why not "sublime", go figure). This utility is hidden in the following folder (assuming you installed Sublime in `/Applications` like normal folk. If this following line opens Sublime Text for you, then bingo, you're ready.
+Sublime Text 3 ships with a CLI called **subl** (why not "sublime", go figure). This utility is hidden in the following folder (assuming you installed Sublime in `/Applications` like normal folk. If this following line opens Sublime Text for you, then bingo, you're ready.
 
 `open /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl`
 
